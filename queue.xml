@@ -1,0 +1,30 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.Queue_-State>
+  <counter>162</counter>
+  <items>
+    <hudson.model.Queue_-BuildableItem>
+      <actions/>
+      <id>63</id>
+      <task class="org.jenkinsci.plugins.workflow.support.steps.ExecutorStepExecution$PlaceholderTask" plugin="workflow-durable-task-step@1217.v38306d8fa_b_5c">
+        <context class="org.jenkinsci.plugins.workflow.cps.CpsStepContext" plugin="workflow-cps@3536.vb_8a_6628079d5">
+          <executionRef class="org.jenkinsci.plugins.workflow.job.WorkflowRun$Owner" plugin="workflow-job@1254.v3f64639b_11dd">
+            <job>my first pipeline job</job>
+            <id>3</id>
+          </executionRef>
+          <id>13</id>
+          <bodyHeads/>
+          <body class="org.jenkinsci.plugins.workflow.cps.HandleBodyReference">
+            <id>5</id>
+          </body>
+          <threadId>0</threadId>
+          <stepDescriptorId>org.jenkinsci.plugins.workflow.support.steps.ExecutorStep</stepDescriptorId>
+        </context>
+        <label>build-node</label>
+        <runId>my first pipeline job#3</runId>
+      </task>
+      <inQueueSince>1669720360084</inQueueSince>
+      <buildableStartMilliseconds>1669720360095</buildableStartMilliseconds>
+      <isPending>false</isPending>
+    </hudson.model.Queue_-BuildableItem>
+  </items>
+</hudson.model.Queue_-State>

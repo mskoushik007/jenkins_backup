@@ -1,0 +1,31 @@
+Started by GitHub push by mskoushik007
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/fifth
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/fifth/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/mskoushik007/myrepo.git # timeout=10
+Fetching upstream changes from https://github.com/mskoushik007/myrepo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/mskoushik007/myrepo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 215ee1fe35dda38a724bae8c694d11e0ff387c86 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 215ee1fe35dda38a724bae8c694d11e0ff387c86 # timeout=10
+Commit message: "Update for3.sh"
+ > git rev-list --no-walk 0a1bd9893ba503381bdf82ae633392dc55e6f98a # timeout=10
+[fifth] $ /bin/sh -xe /tmp/jenkins16429603594196807530.sh
++ sh for3.sh
+ the factorial of 10 is 3628800
+checking for webhhook
+ the factorial of 20 is 2432902008176640000
+checking for webhhook
+ the factorial of 30 is 265252859812191058636308480000000
+checking for webhhook
+ the factorial of 40 is 815915283247897734345611269596115894272000000000
+checking for webhhook
+ the factorial of 50 is 30414093201713378043612608166064768844377641568960512000000000000
+checking for webhhook
+Finished: SUCCESS

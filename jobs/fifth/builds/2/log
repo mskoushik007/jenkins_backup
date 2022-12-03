@@ -1,0 +1,23 @@
+Started by GitHub push by mskoushik007
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/fifth
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/fifth/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/mskoushik007/myrepo.git # timeout=10
+Fetching upstream changes from https://github.com/mskoushik007/myrepo.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.34.1'
+ > git fetch --tags --force --progress -- https://github.com/mskoushik007/myrepo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 05e120349d14b488bc25d66f2474eca56a9c2836 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 05e120349d14b488bc25d66f2474eca56a9c2836 # timeout=10
+Commit message: "Update for3.sh"
+ > git rev-list --no-walk c8518825a67b0f3d7c6734a9999b1f51d83ae4a0 # timeout=10
+[fifth] $ /bin/sh -xe /tmp/jenkins12814039454889794715.sh
++ sh for3.sh
+for3.sh: 15: Syntax error: Unterminated quoted string
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

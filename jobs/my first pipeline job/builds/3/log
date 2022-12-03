@@ -1,0 +1,35 @@
+Started by user [8mha:////4AsP0cclXL8X1mBzbozyaZx5rk5OVUfZraI1GK3tTJiJAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6pcWpRfq5xdn5pcUZmdkGBuYAYaG3l8cAAAA=[0mkoushik 
+[8mha:////4NQUPrT74OBShm2fepcamluLyI5twHy5+kZnBJ6+A9LOAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4HBpKja3QypQvAMK7BzROOQ67957Zo4d+AlThvGbCZtyAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Still waiting to schedule task
+‘[8mha:////4NnUA91jyOp141/ltG42ClSf8zCQi+shSoUzCO44CgXBAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYR/eT83ILSktQi/ZKMzKKUPKBj9QGrL3UUyQAAAA==[0mthirdnode’ is offline
+Resuming build at Tue Nov 29 00:58:38 UTC 2022 after Jenkins restart
+Ready to run at Tue Nov 29 00:58:39 UTC 2022
+Resuming build at Tue Nov 29 11:12:35 UTC 2022 after Jenkins restart
+Ready to run at Tue Nov 29 11:12:35 UTC 2022
+Running on [8mha:////4NnUA91jyOp141/ltG42ClSf8zCQi+shSoUzCO44CgXBAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYR/eT83ILSktQi/ZKMzKKUPKBj9QGrL3UUyQAAAA==[0mthirdnode in /home/slave/workspace/my first pipeline job
+[8mha:////4LcdFzD0Onhd93trw+C+ds3x83KxHGHmakUiQh0kPUjkAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4DTo00HqbSDZaRdj0yZuuLIlyzMkj5ZAp/FN57UE0W5cAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4LEOAU3Goavlf3rWxvPM7WKVbWyM1Haocs6dxO19CycqAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Example)
+[8mha:////4OG8YU2vZVaZmoAvIe2oOzIgYWvbK+gbxHioDno0a+wOAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] sh
++ pwd
+/home/slave/workspace/my first pipeline job
+[8mha:////4CAFZYpNZ+q7F1LubH0UNTt4PjCp5da9323eP/zOPxsGAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED8v8DEJvAAAAA==[0m[Pipeline] sh
++ ls
+[8mha:////4OoygYsS+u+1dqCizk2PQEas96JbdvVy87O93/H6Xd1TAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j/zqggXvAAAAA==[0m[Pipeline] }
+[8mha:////4KQ4m1dPDX477weSDCNeMtLZB7JjCizq2tY9o5Z07bvAAAAAox+LCAAAAAAAAP9tjTESgjAQRT84FraWHiJoYeVY2WZoPEGEGAOZXUwWofJEXs07yMiMlb/67zXv9cYyRRw5OtVYaj2lyqsu9G56auDYXgMPquGLqpgSB6tKO5Rc29OMJYvFvCzHQmNlqQqcPDnBWjfmYYpgyBVniZM7aOS+vuOJTE9lMVG+MEZsbn2dmH6dvwGMXSfId1tBtv8AExtCpb0AAAA=[0m[Pipeline] // stage
+[8mha:////4HD7cl3JtRDKlgm66dPJ0I9ScltKcqFe7/+eao+XejwSAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6KExM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8ANQIl770AAAA=[0m[Pipeline] }
+[8mha:////4M+9pBlbUl1O0tq3eLZMZfLlXo7O5HxgF+4aXnKRRqwwAAAAoh+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRUCIqWisNLzCJMU6su2BfSCpexNf4AxGRqNhqZ5p5vbFMEUeOTjWWWk+p8qoLvZueGji218CDaviiKqbEwarSDiXX9jRjyWIxL8ux0FhZqgInT06w1o15mCIYcsVZ4uQOGrmv73gi01NZTJQvjBGbW18npl/nbwBj1wny7U6Q7T9G7eE2vQAAAA==[0m[Pipeline] // node
+[8mha:////4JT+gdivmV2rooQoZFlO1m6jpUiOfmH0qTOvcnsmL/VyAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQjoERUtJYbXmBiY5xYd8G+kFS8iK/xBwKRqNhqZ6XVPF9Q5gQHSl42DtuAuQ6yi72fmhwotZdIg2zoLGvCTNFJ7QZN1h1n1MQO5ogCFgqWDutIOaBnWKnG3E0VDfrqxGna9gqKYG/wAKEmM5vEXxgTrK+9zYQ/z18BjB2D2DIUm93nWL4BW1wLP8EAAAA=[0m[Pipeline] node
+Still waiting to schedule task
+There are no nodes with the label ‘[8mha:////4KQTuSBVkJBWyOq5J074DrdRbzEsMqZk8RP+yYrEsM2AAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwuoBlA7UmpOfpJpZk5Kbp5QKfqAwApH6zTxwAAAA==[0mbuild-node’
+Resuming build at Wed Nov 30 00:59:37 UTC 2022 after Jenkins restart
+Ready to run at Wed Nov 30 00:59:38 UTC 2022
+Resuming build at Wed Nov 30 07:19:13 UTC 2022 after Jenkins restart
+Ready to run at Wed Nov 30 07:19:13 UTC 2022
+Resuming build at Thu Dec 01 01:02:21 UTC 2022 after Jenkins restart
+Ready to run at Thu Dec 01 01:02:21 UTC 2022
+Resuming build at Fri Dec 02 14:02:56 UTC 2022 after Jenkins restart
+Ready to run at Fri Dec 02 14:02:56 UTC 2022
+Resuming build at Sat Dec 03 10:37:35 UTC 2022 after Jenkins restart
+Ready to run at Sat Dec 03 10:37:35 UTC 2022

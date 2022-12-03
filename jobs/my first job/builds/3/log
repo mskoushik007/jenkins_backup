@@ -1,0 +1,7 @@
+Started by user [8mha:////4AsP0cclXL8X1mBzbozyaZx5rk5OVUfZraI1GK3tTJiJAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6pcWpRfq5xdn5pcUZmdkGBuYAYaG3l8cAAAA=[0mkoushik 
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/my first job
+[my first job] $ /bin/sh -xe /tmp/jenkins13467176020798706742.sh
++ hostname -i
+172.31.13.9
+Finished: SUCCESS
